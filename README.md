@@ -1,6 +1,7 @@
 # KC House Data Analysis
 
 This project focuses on analyzing house price data for King County, Washington. The goal is to explore the dataset, perform data cleaning, feature engineering, and build a machine learning model to predict house prices.
+
 Dataset: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 ## Project Overview

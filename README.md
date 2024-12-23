@@ -61,7 +61,7 @@ To run the analysis on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/elfgk/KC-House-Data-Analysis.git
-     ```
+   ```
 
 2. Install the required Python libraries.
 3. Open the kc-house.ipynb Jupyter notebook and follow the steps.
